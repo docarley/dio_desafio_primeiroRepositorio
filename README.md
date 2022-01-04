@@ -1,2 +1,4 @@
-# dio_desafio_primeiroRepositorio
-Repositório referente ao Desafio de Git/GitHub - Site DIO
+# Teste Repositório Git / GitHub
+Repositório referente aos testes práticos com as ferramentas Git/GitHub
+
+
